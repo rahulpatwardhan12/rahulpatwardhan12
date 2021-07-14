@@ -1,0 +1,4 @@
+- 👋  Hi, I’m @rahulpatwardhan12
+- 👀  I’m always looking to tell new stories with code
+- 🌱  I’m currently learning Data Analysis, and will probably continue to always learn about it
+- 📫  Here's my [Linkedin](https://www.linkedin.com/in/rahulpatwardhan12) page
